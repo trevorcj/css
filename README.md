@@ -30,7 +30,7 @@ This repository contains the files and resources related to my learning journeyn
 
 ## Challenges
 I built some a project as part of the course challenge, this project will be improved as I progress in the course
-- A product visualisation card: The souce code can be found in the css-challenge-1 folder. These are images of the project as I improve it:
+- A product visualisation card: The souce code can be found in the css-challenge-1 and css-challenge-2 folders. These are images of the project as I improve it:
   
   <img src="https://github.com/trevorcj/css/blob/main/css-challenge-1/final-result.PNG" alt="Product Visualisation Card with HTML and CSS" style="margin-right: 10px;" width="500px"/><br> Version 1 <br><br>
   <img src="https://github.com/trevorcj/css/blob/main/css-challenge-2/img/final-result.PNG" alt="Product Visualisation Card with HTML and CSS" width="500px"/> <br> Version 2 <br>
